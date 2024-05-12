@@ -1,0 +1,7 @@
+pip install openprompt
+pip install transformers
+pip install torch
+pip install pandas
+pip install sklearn
+pip install scikit-learn
+pip install contractions
